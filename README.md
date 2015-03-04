@@ -1,0 +1,1 @@
+# mogenerator_templates
